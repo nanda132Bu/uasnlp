@@ -52,9 +52,7 @@ Setiap pemanggilan LLM dan setiap langkah graph otomatis ter-trace ke dashboard 
 
 ## 🖼️ Screenshot
 
-> *(Tambahkan screenshot aplikasi: tampilan chat mode "tulis", mode "tanya", dan sidebar statistik)*
-
----
+(screenshoots/web1.png) + (screenshoots/web2.png) + (screenshoots/web3.png)
 
 ## 🛠️ Tech Stack
 
