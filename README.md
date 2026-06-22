@@ -52,7 +52,9 @@ Setiap pemanggilan LLM dan setiap langkah graph otomatis ter-trace ke dashboard 
 
 ## 🖼️ Screenshot
 
-(screenshoots/web1.png) + (screenshoots/web2.png) + (screenshoots/web3.png)
+![ss-1](screenshoots/web1.png)
+![ss-2](screenshoots/web2.png)
+![ss-3](screenshoots/web3.png)
 
 ## 🛠️ Tech Stack
 
